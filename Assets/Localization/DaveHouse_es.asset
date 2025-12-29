@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DaveHouse_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 4f3b53eeb955cb34e95dbb44bc47ca8b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 37037694976
+    m_Localized: 'Que hace un perro en mi casa?...
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87113490432
+    m_Localized: 'Bueno, mientras no me molestes mucho no me importa, ahora si me
+      disculpas me gustaria poder comer tranquilo
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126351204352
+    m_Localized: 'A todas estas, encontre algo que no se pa'' que sirva pero seguramente
+      le encuentres utilida'' (recibiste una llave para algo de dave)
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159645589504
+    m_Localized: 'Sigues aqui? lo que tengo que aguantar a veces...
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186224893952
+    m_Localized: 'Podrias, no se, irte a explorar por ahi broski?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1463117832192
+    m_Localized: "\u2026\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1531422072832
+    m_Localized: "\u2026\u2026\r\n\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1566914273280
+    m_Localized: Vete de mi casa, por favor...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

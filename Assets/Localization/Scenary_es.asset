@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Scenary_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: cbe639c3b1d52014fb7a2e32944983e5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 79102369792
+    m_Localized: "Puerta bloqueada. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136191041536
+    m_Localized: 'Se necesita una llave.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234627162112
+    m_Localized: 'Has obtenido las patas rapidas.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363199356928
+    m_Localized: 'Pulsa la tecla "c" para desplazarte rapidamente hacia delante.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381033537536
+    m_Localized: 'Utiliza las patas rapidas para salir de la sala.
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

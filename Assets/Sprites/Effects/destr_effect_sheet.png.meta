@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 6ae1e9b4f731ef741bdaa8ce124c3839
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1244111636114115387
+    second: destr_effect_sheet_0
+  - first:
+      213: -3386956362725957862
+    second: destr_effect_sheet_1
+  - first:
+      213: 3095294794692659166
+    second: destr_effect_sheet_2
+  - first:
+      213: 927042890381201896
+    second: destr_effect_sheet_3
+  - first:
+      213: 7205035598788698999
+    second: destr_effect_sheet_4
+  - first:
+      213: 4111254743169194219
+    second: destr_effect_sheet_5
+  - first:
+      213: 5252863014131645108
+    second: destr_effect_sheet_6
+  - first:
+      213: -6869111042255967075
+    second: destr_effect_sheet_7
+  - first:
+      213: -3866452974356166988
+    second: destr_effect_sheet_8
+  - first:
+      213: -7536584497349499729
+    second: destr_effect_sheet_9
+  - first:
+      213: 2878178096915089042
+    second: destr_effect_sheet_10
+  - first:
+      213: -787899030342854027
+    second: destr_effect_sheet_11
+  - first:
+      213: 7956427741119255609
+    second: destr_effect_sheet_12
+  - first:
+      213: -1325879674565740284
+    second: destr_effect_sheet_13
+  - first:
+      213: -2280776294778968770
+    second: destr_effect_sheet_14
+  - first:
+      213: 8569188116927424931
+    second: destr_effect_sheet_15
+  - first:
+      213: 4131409991147467872
+    second: destr_effect_sheet_16
+  - first:
+      213: 4755994817338231535
+    second: destr_effect_sheet_17
+  - first:
+      213: 2112131535037980073
+    second: destr_effect_sheet_18
+  - first:
+      213: -8630020622908410051
+    second: destr_effect_sheet_19
+  - first:
+      213: 1616668597181358990
+    second: destr_effect_sheet_20
+  - first:
+      213: -2050785791377544453
+    second: destr_effect_sheet_21
+  - first:
+      213: -8633362784989723484
+    second: destr_effect_sheet_22
+  - first:
+      213: -6773318697590523992
+    second: destr_effect_sheet_23
+  - first:
+      213: -3119547564862510724
+    second: destr_effect_sheet_24
+  - first:
+      213: 8419866824169621292
+    second: destr_effect_sheet_25
+  - first:
+      213: -390308120018351585
+    second: destr_effect_sheet_26
+  - first:
+      213: 8312774949073793003
+    second: destr_effect_sheet_27
+  - first:
+      213: 4324174907226416478
+    second: destr_effect_sheet_28
+  - first:
+      213: 4733118645643229148
+    second: destr_effect_sheet_29
+  - first:
+      213: -452122683889945875
+    second: destr_effect_sheet_30
+  - first:
+      213: -1713363951990838236
+    second: destr_effect_sheet_31
+  - first:
+      213: -1742224514675038905
+    second: destr_effect_sheet_32
+  - first:
+      213: -8800949619595055883
+    second: destr_effect_sheet_33
+  - first:
+      213: 6807457604358951714
+    second: destr_effect_sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: destr_effect_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b038301f8f34110800000000000000
+      internalID: 1244111636114115387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destr_effect_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f58f9022d1ff0d0800000000000000
+      internalID: -3386956362725957862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destr_effect_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed785c85732b4fa20800000000000000
+      internalID: 3095294794692659166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destr_effect_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e119bcd8948ddc00800000000000000
+      internalID: 927042890381201896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destr_effect_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77328d304bd6df360800000000000000
+      internalID: 7205035598788698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da07ddd0e2649f749a3833d317615ead
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      destr_effect_sheet_0: 1244111636114115387
+      destr_effect_sheet_1: -3386956362725957862
+      destr_effect_sheet_2: 3095294794692659166
+      destr_effect_sheet_3: 927042890381201896
+      destr_effect_sheet_4: 7205035598788698999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

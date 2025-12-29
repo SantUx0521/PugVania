@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 473ba971697eda74dbe8cbf28b6004fe
+  m_SerializeEntries:
+  - m_GUID: 02a06ea38c90ef64b846c7b5619f49e3
+    m_Address: Assets/Localization/Desitions Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12099e0d5edbc4f449779071df1aeda9
+    m_Address: Assets/Localization/Credits Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d139dc130f03e04fb4640ff5be02160
+    m_Address: Assets/Localization/LinderHouseText Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 439e8b6585a20b14bb1ad0b2d657b194
+    m_Address: Assets/Localization/Death Screen Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 475331a2249fc0d449338bda0e3ebf67
+    m_Address: Assets/Localization/LinderCave Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f3b53eeb955cb34e95dbb44bc47ca8b
+    m_Address: Assets/Localization/DaveHouse Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d6a289b550b00e4e9e55e3dcc3a5d01
+    m_Address: Assets/Localization/Link_text Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68133d2baf6098a4e90832471ed77955
+    m_Address: Assets/Localization/Credits menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7843579e49064ec4fa575ebc02d6c746
+    m_Address: Assets/Localization/Main menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8439be3cfcf97824c88ca2ea7b0ff19e
+    m_Address: Assets/Localization/tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a34ebc8c1bd314c4a91e4e1c4ef947dc
+    m_Address: Assets/Localization/Pause menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbe639c3b1d52014fb7a2e32944983e5
+    m_Address: Assets/Localization/Scenary Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea5a14e7cbb6ca1469541c675ad5d40e
+    m_Address: Assets/Localization/Options menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 35a40fb86936f7c4babad3ccda3b8ba8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a5b0c18540c00fd479ece9d9942d37db, type: 2}
+    - {fileID: 11400000, guid: d3724b78ee5d7a846b4c4b5f0e4a71bb, type: 2}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LinderHouseText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1d139dc130f03e04fb4640ff5be02160, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5970485248
+    m_Localized: It took you too long, PugLink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129878614016
+    m_Localized: What you're searching is not here, that's a shame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197834727424
+    m_Localized: "Who am I? \u2026is something that i cant tell you, but you'll discover
+      it soon.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279128727552
+    m_Localized: I must go, but i know that we will see each other again, i'll be
+      waiting.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DaveHouse_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4f3b53eeb955cb34e95dbb44bc47ca8b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 37037694976
+    m_Localized: What is a dog doing in my house?...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87113490432
+    m_Localized: Well, as long as you don't bother me i dont care, now if you excuse
+      me i would like to eat in calm.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126351204352
+    m_Localized: By the way, I found somethin' that i don't know what is for but
+      im sure you will find it usefull (you get a key from Dave)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159645589504
+    m_Localized: Still here? oh.. my... what I have to endure sometimes...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186224893952
+    m_Localized: would you? I dont know, go explore or something broski?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1463117832192
+    m_Localized: "\u2026\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1531422072832
+    m_Localized: "\u2026\u2026\r\n\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1566914273280
+    m_Localized: Get out of my house, please...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Link_text_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 5d6a289b550b00e4e9e55e3dcc3a5d01, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 89449717760
+    m_Localized: 'Jeje, perdon por interrumpir pero hasta aqui llegamos
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150837551104
+    m_Localized: 'El juego sigue en desarrollo y esto es solo una beta pero espero
+      haya sido divertido de alguna forma jeje
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 516148846592
+    m_Localized: 'Aprender todo esto desde 0 es terrible pero poco a poco se va sacando
+      adelante el juego
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1309769883648
+    m_Localized: 'y... bueno... supongo que eso es todo
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470298480640
+    m_Localized: 'jeje
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1525873008640
+    m_Localized: 'Espero volver a verte.... en algun momento ;)
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
